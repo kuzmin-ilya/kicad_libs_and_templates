@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP quad_opamp_LFCSP
+D Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lm2902-n.pdf
+$ENDCMP
+#
+#End Doc Library
